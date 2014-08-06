@@ -1,6 +1,13 @@
 <?php
-//
+//This was originally written by @milansaha
+//I decided to edit it and integrate to a CakePHP 2.x application 
+//I renamed it and copied it to app/View/Helper in my application.
+
+App::uses('AppHelper', 'View/Helper');
+
 class NumberToWordHelper extends AppHelper {
+
+
 
     function convert_number_to_words($number) {
             $hyphen      = '-';
