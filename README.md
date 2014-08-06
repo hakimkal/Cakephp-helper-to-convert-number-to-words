@@ -7,8 +7,10 @@ helper to solve my purpose.
 
 Step 1: 
    Download the number_to_word.php script and keep it in app/views/helpers/ 
-   or
-   Download NumberToWordHelper.php and keep it in app/View/Helper for cakePHP 2.x apps
+  
+  OR
+  
+  Download NumberToWordHelper.php and keep it in app/View/Helper for cakePHP 2.x apps
    
 
 Step 2: Load this helper in the desired controller or in appcontroller.
